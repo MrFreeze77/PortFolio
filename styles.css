@@ -120,3 +120,16 @@ footer a:hover {
   display: block;
   margin-bottom: 10px;
 }
+
+.page-competences .block > .container {
+  max-width: 100%;
+  width: 95%;
+  margin: 0 auto;
+}
+
+/* Cible uniquement le tableau sur la page compétences */
+.page-competences .tableau-large {
+  max-width: 95vw;
+  width: 95vw;
+  position: absolute;
+}
