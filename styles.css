@@ -102,3 +102,21 @@ footer a {
 footer a:hover {
   color: #ffffff;
 }
+
+.annexe {
+  margin-bottom: 40px;
+}
+
+.annexe-image {
+  border: 1px solid #ccc;
+  padding: 15px;
+  border-radius: 10px;
+  background-color: #f9f9f9;
+}
+
+.annexe-image img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin-bottom: 10px;
+}
